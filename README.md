@@ -92,3 +92,14 @@ npm start
 ```
 
 The application will run on http://localhost:3000 by default.
+
+
+
+## Screenshots
+
+
+
+
+![Characters List Screenshot](https://github.com/aparna0612/Rick-And-Morti-App/blob/main/images/characters.png)
+![Character Details Screenshot](https://github.com/aparna0612/Rick-And-Morti-App/blob/main/images/character.png)
+![Episode Screenshot](https://github.com/aparna0612/Rick-And-Morti-App/blob/main/images/episode.png)
