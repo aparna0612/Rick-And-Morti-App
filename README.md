@@ -29,8 +29,9 @@ This project sets up a Node.js server to interact with the Rick and Morty API. I
 
 Clone the repository to your local machine
 
-bash
+```bash
 git clone https://github.com/aparna0612/Rick-And-Morti-App.git
+```
 
 Navigate to the project directory
 
