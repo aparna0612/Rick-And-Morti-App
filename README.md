@@ -3,6 +3,14 @@
 # RICK-AND-MORTY-APP
 
 This project sets up a Node.js server to interact with the Rick and Morty API. It provides endpoints to fetch characters and episodes data from the Rick and Morty API.
+- Upon starting the server, it automatically navigates to the first page of the UI.
+- The first page displays basic details of characters fetched from the Rick and Morty API.
+- Clicking on a character's name redirects to the second page.
+- The second page shows comprehensive details of the selected character, including their image and other relevant information.
+- Additionally, there is a "Total Episode" option on the second page.
+- Clicking on "Total Episode" navigates to the third page.
+- The third page lists all episodes from the Rick and Morty series.
+- For each episode, it displays the number of characters and their respective images and names.
 
 ## Table of Contents
 
