@@ -15,10 +15,10 @@ This project sets up a Node.js server to interact with the Rick and Morty API. I
 
 ## Technologies Used
 
-- _Express.js_: Backend server framework for handling HTTP requests and WebSocket connections.
-- _React_: Frontend library for building the user interface and managing application state.
-- _Node.js_: Runtime environment for executing JavaScript code on the server-side.
-- _
+- _Express.js_ : Backend server framework for handling HTTP requests and WebSocket connections.
+- _React_ : Frontend library for building the user interface and managing application state.
+- _Node.js_ : Runtime environment for executing JavaScript code on the server-side.
+- _Tailwind CSS_ : Tailwind CSS for quick, consistent styling and responsive design with extensive utility classes.
 
   
 ## Prerequisites
